@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<math.h>
+
 main()
 {
     int distance_cover=0;
